@@ -1,4 +1,4 @@
-Démo Netgraph
+Demo Netgraph
 ====
 
 Pour lancer la démo:
